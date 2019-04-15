@@ -1,5 +1,5 @@
-# useful tf libs
-`tensorflow_addons` is need
+# useful torch libs
+
 
 ## to do
-- [] layers._get_normlayer change default params like initializer
+- [ ] layers._get_normlayer change default params like initializer

@@ -2,4 +2,4 @@
 
 
 ## to do
-- [ ] layers._get_normlayer change default params like initializer
+- [ ] test functions
